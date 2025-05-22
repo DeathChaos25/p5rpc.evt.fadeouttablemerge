@@ -16,7 +16,7 @@ major | minor | fade
 Example:  
 128 | 4 | 14
 
-The given example would give the event of major id 128 and minor id 4 (e128_005 in the game files) a fadeout value of 14 (this is the "Entering the Metaverse" transition effect).  
+The given example would give the event of major id 128 and minor id 4 (e128_004 in the game files) a fadeout value of 14 (this is the "Entering the Metaverse" transition effect).  
 
 ![metaverse transition example](https://i.imgur.com/0AVGS5E.png)
 
