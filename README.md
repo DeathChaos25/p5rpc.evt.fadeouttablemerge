@@ -1,4 +1,4 @@
-# Custom In-Combat Skill Effect Text for P3P (Steam version)  
+# Event Fadeout Table Merging
   
 Allows for multiple mods to add new entries to the event fadeout table file, these fadeouts are used when an event is ending.
 
